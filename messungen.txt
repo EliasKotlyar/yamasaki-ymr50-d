@@ -1,0 +1,16 @@
+Tank voll = 24 M-Ohm
+
+5cm x 13cm
+
+
+Akku Barter:
+ 118mm x  59mm x 130mm
+
+
+
+
+Luft/Gemischschraube = links, Standgas = rechts
+1. Luftschraube zudrehen, Standgas auch. Schauen das die Luftschraube komplett zugedreht ist.
+2. Standgas rausdrehen und schauen das der Motor nicht abstirbt
+3. Luftschraube wieder rausdrehen, bis die Drehzahl sich stabilisiert hat
+4. Standgas reindrehen bis man die gewünschte Drehzahl hat(2.5k)
